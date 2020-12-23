@@ -2,9 +2,9 @@
  University Course (CS204) Programming Homeworks with specific topics
  
 **HW1**
- *Matrix and vectors. Traverse and find an enclosed area.
+ Matrix and vectors. Traverse and find an enclosed area.
 **HW2**
- *Linked Lists. Creating a banking system-like to keep track of the credit cards.
+ \nLinked Lists. Creating a banking system-like to keep track of the credit cards.
 **HW3**
  *Doubly Linked Lists. Simple banking application with a few features.
 **HW4**
